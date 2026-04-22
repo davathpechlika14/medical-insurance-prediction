@@ -32,4 +32,16 @@ It predicts the estimated **medical insurance cost** based on user input.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
+app.py # Streamlit app
+train_model.py # Model training script
+model.pkl # Trained model
+insurance.csv # Dataset
+insurance.jpeg # Image used in UI
+requirements.txt # Dependencies
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py

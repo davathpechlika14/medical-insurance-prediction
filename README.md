@@ -6,6 +6,11 @@ It predicts the estimated **medical insurance cost** based on user input.
 
 ---
 
+## Members
+- Davath Pechlika     e20230643
+- Tan Vouleang        e20230912
+- Ny Sarakseyha       e20230075
+
 ## Features
 - User input from sidebar
 - Real-time insurance cost prediction
